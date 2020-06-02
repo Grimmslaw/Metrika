@@ -2,7 +2,7 @@
 
 import os
 
-from metrika.db.initialization import init_db
+from db.initialization import init_db
 
 DEFAULT_DB_NAME = 'db/data.db'
 
